@@ -1,174 +1,50 @@
 # profile-desu
 hello hello fish
 
-  <h3 id="bonjour">Bonjour</h3>
-<p>I’m Beyond, lil bit of cybersecurity lil bit of game<p>
-  
-<p>quote lorem ipsum</p>
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/>
 
+<h2>About Me</h2>
+<h3 id="bonjour">Bonjour</h3>
+<p>
+I'm Beyond, a Computer Science student at IPB University.<br>
+Currently exploring programming, lil bit of cybersecurity, lil bit of game development, and creative stuff.
+</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table><thead><tr><th>T</th><th>h</th><th>i</th><th>n</th><th>g</th><th>s</th><th></th><th>I</th><th></th><th>💚</th><th>:</th></tr></thead><tbody><tr><td></td><td></td><td></td><td><code>P</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td><code>W</code></td></tr><tr><td></td><td><code>D</code></td><td><code>E</code></td><td><code>S</code></td><td><code>I</code></td><td><code>G</code></td><td><code>N</code></td><td></td><td></td><td></td><td><code>H</code></td></tr><tr><td><code>M</code></td><td></td><td></td><td><code>Y</code></td><td></td><td></td><td></td><td></td><td><code>C</code></td><td></td><td><code>I</code></td></tr><tr><td><code>I</code></td><td></td><td></td><td><code>C</code></td><td><code>O</code></td><td><code>D</code></td><td><code>E</code></td><td></td><td><code>O</code></td><td></td><td><code>M</code></td></tr><tr><td><code>N</code></td><td></td><td></td><td><code>H</code></td><td></td><td></td><td></td><td></td><td><code>L</code></td><td></td><td><code>S</code></td></tr><tr><td><code>I</code></td><td></td><td><code>S</code></td><td><code>O</code></td><td><code>C</code></td><td><code>I</code></td><td><code>O</code></td><td><code>L</code></td><td><code>O</code></td><td><code>G</code></td><td><code>Y</code></td></tr><tr><td><code>M</code></td><td></td><td></td><td><code>L</code></td><td></td><td></td><td></td><td></td><td><code>R</code></td><td></td><td></td></tr><tr><td><code>A</code></td><td></td><td></td><td><code>O</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><code>L</code></td><td><code>I</code></td><td><code>N</code></td><td><code>G</code></td><td><code>U</code></td><td><code>I</code></td><td><code>S</code></td><td><code>T</code></td><td><code>I</code></td><td><code>C</code></td><td></td></tr><tr><td><code>I</code></td><td></td><td></td><td><code>Y</code></td><td></td><td></td><td><code>E</code></td><td></td><td></td><td></td><td></td></tr><tr><td><code>S</code></td><td></td><td></td><td></td><td></td><td></td><td><code>M</code></td><td></td><td></td><td><a href="https://www.instagram.com/alexmartinfr/">📸</a></td><td></td></tr><tr><td><code>M</code></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-<ul>
-<li>🛠 Contributing to <a href="https://github.com/pestphp/pest"> Pest </a> &amp; <a href="https://github.com/nunomaduro/collision"> Collision </a></li>
-<li>🔥 Working with the <a href="https://tallstack.dev/"> TALLStack </a></li>
-<li>🐦 Reach me on <a href="https://twitter.com/alexmartinfr"> Twitter </a></li>
-</ul>
 <hr>
-<p>Credits: <a href="https://github.com/AlexMartinFR">AlexMartinFR</a></p>
-<p>Last Edited on: 30/08/2020</p> 
+
+<h2>stuff i do</h2>
+
+<p>
+🎮 Game Development<br>
+🔐 Cybersecurity<br>
+📸 Photography<br>
+🍵 Matchaholic<br>
+🎨 Graphic Design<br>
+🌀 Being Clumsy
+</p>
+
+<hr>
+
+<h2>Currently Learning</h2>
+
+<p>
+💻 Programming<br>
+🎮 Game Development<br>
+🔐 Cybersecurity<br>
+🎨 Figma & Design<br>
+</p>
+
+<hr>
+
+<h2>Connect With Me</h2>
+
+<p>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a>
+<a href="https://instagram.com/yonnbe_/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"></a>
+</p>
+<!-- <li>🐦 Reach me on <a href="https://twitter.com/alexmartinfr"> Twitter </a></li>
+</ul> --> -->
+<hr>
+
+<p>Last Edited on: 28/09/2026</p> 
